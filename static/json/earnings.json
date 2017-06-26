@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "earnings_id": "410",
+            "member_name": "L＆Z",
+            "total_earnings": "200.000000",
+            "member_id": "247112616",
+            "ranking": 10
+        },
+        {
+            "earnings_id": "413",
+            "member_name": null,
+            "total_earnings": "100.000000",
+            "member_id": "937463143",
+            "ranking": 10
+        },
+        {
+            "earnings_id": "423",
+            "member_name": "asdfggggg and",
+            "total_earnings": "100.000000",
+            "member_id": "998535218",
+            "ranking": 10
+        },
+        {
+            "earnings_id": "455",
+            "member_name": "便利到家有限公司",
+            "total_earnings": "0.014685",
+            "member_id": "815386633",
+            "ranking": 10
+        },
+        {
+            "earnings_id": "460",
+            "member_name": "13112340001",
+            "total_earnings": "0.014685",
+            "member_id": "756872271",
+            "ranking": 10
+        },
+        {
+            "earnings_id": "461",
+            "member_name": "黃鈞 - 事業圈",
+            "total_earnings": "0.014685",
+            "member_id": "661587875",
+            "ranking": 10
+        },
+        {
+            "earnings_id": "462",
+            "member_name": "ML.Z啦咯啦图咯啦",
+            "total_earnings": "0.014685",
+            "member_id": "295216039",
+            "ranking": 10
+        },
+        {
+            "earnings_id": "442",
+            "member_name": "2",
+            "total_earnings": "0.010000",
+            "member_id": "291140002",
+            "ranking": 10
+        },
+        {
+            "earnings_id": "212",
+            "member_name": null,
+            "total_earnings": "-1.000000",
+            "member_id": "89",
+            "ranking": 10
+        },
+        {
+            "earnings_id": "191",
+            "member_name": "任你行",
+            "total_earnings": "-10.000000",
+            "member_id": "13",
+            "ranking": 10
+        }
+    ],
+    "statusCode": 0,
+    "msg": "恭喜您！操作成功"
+}
